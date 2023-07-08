@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(247, 224, 15);
+}
+.signup{
+    width:382px;
+    margin:auto;
+    margin-top:200px;
+    margin-left:520px;
+    margin-right:520px;
+    background-color: white;
+    padding:50px;
+    
+}
+#user{
+    width:350px;
+    height:20px;
+    border:none;
+    background-color:rgba(225, 222, 222, 0.932);
+    padding: 8px; 
+
+}
+#passwd{
+    width:350px;
+    height:20px;
+    border:none;
+    background-color:rgba(225, 222, 222, 0.932);
+    padding: 8px; 
+
+}
+p{
+    text-align: right;
+    padding-right: 8px;
+}
+#mob{
+    width:350px;
+    height:20px;
+    border:none;
+    background-color:rgba(225, 222, 222, 0.932);
+    padding: 8px; 
+}
+#check{
+    background-color: blue;
+}
+#sign{
+    width:350px;
+    height:30px;
+    background-color:rgb(247, 224, 15); 
+    text-align: center;
+    color:white;
+    border:none;
+}
+
